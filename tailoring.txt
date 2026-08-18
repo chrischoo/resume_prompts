@@ -41,3 +41,7 @@ Duration of Candidature / OIM: For internship positions, verify the inclusion of
 Key Achievements & Leadership Roles: Highlighting leadership positions, academic honours, and specific activities/achievements associated with them that match the JD's desired profile.
 
 Interests & Activities: Inclusion of relevant interests that showcase character fit, leadership, or organizational "soft skills" aligned with the company culture implied by the JD.
+
+<Resume> ... </Resume>
+
+<Job Description> ... </Job Description>
